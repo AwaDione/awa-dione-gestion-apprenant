@@ -33,12 +33,12 @@
                 "type": "object",
                 "properties": {
                   "email": {
-                    "type": "password",
-                    "example": "groupe6p6@gmail.com"
+                    "type": "email",
+                    "example": "dioneawa31@gmail.com"
                   },
                   "password": {
                     "type": "string",
-                    "example": "Passer@123"
+                    "example": "P@sser123"
                   }
                 },
                 "required": [
